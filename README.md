@@ -31,8 +31,8 @@ Hi, i'm Pramita Widya. I'm a student majoring in Informatics Engineering class o
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adminikaros&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adminikaros&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pramitawidya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramitawidya&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
